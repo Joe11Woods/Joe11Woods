@@ -7,8 +7,7 @@ quantum computing, theoretical physics and computational physics.
 
 - Python and scientific computing
 - Computational quantum mechanics
-- Harvard CS50P
-- Numerical modelling and data analysis
+- Building my python skills
 
 <!--
 **Joe11Woods/Joe11Woods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
