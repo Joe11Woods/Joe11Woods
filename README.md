@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a Physics student at Durham University interested in
+quantum computing, theoretical physics and computational physics.
+
+## 🔬 Currently working on
+
+- Python and scientific computing
+- Computational quantum mechanics
+- Harvard CS50P
+- Numerical modelling and data analysis
+
 <!--
 **Joe11Woods/Joe11Woods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
