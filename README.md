@@ -9,7 +9,7 @@ quantum computing, theoretical physics and computational physics.
 - Computational quantum mechanics
 - Building my python skills
 
-## I recently built
+## 🛠️ I recently built
 
 - Infinite Square Well Simulator
 - Number Guessing Game
