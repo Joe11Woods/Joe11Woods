@@ -5,9 +5,14 @@ quantum computing, theoretical physics and computational physics.
 
 ## 🔬 Currently working on
 
-- Python and scientific computing
+- Scientific computing
 - Computational quantum mechanics
 - Building my python skills
+
+## I recently built
+
+- Infinite Square Well Simulator
+- Number Guessing Game
 
 <!--
 **Joe11Woods/Joe11Woods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
